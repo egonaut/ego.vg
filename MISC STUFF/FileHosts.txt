@@ -1,0 +1,59 @@
+**Recommended File Hosts**
+
+[Pixeldrain](https://pixeldrain.com/)
+[anonfiles](https://anonfiles.com/)
+[1fichier](https://1fichier.com/)
+[LetsUpload](https://letsupload.io/) / [1CloudFile](https://1cloudfile.com/)
+[mediafire](https://www.mediafire.com/)
+[bowfile](https://bowfile.com/)
+[krakenfiles](https://krakenfiles.com/)
+[hexupload](https://www.hexupload.net/)
+[clicknupload](https://clicknupload.co/)
+[Bayfiles](https://bayfiles.com/)
+[sendspace](https://www.sendspace.com/)
+[mixdrop](https://mixdrop.co/)
+[wormhole](https://wormhole.app/)
+[UsersCloud](https://userscloud.com/)
+[UploadBuzz](https://uploadbuzz.cc/)
+[gofile](https://gofile.io/)
+[sendfile.su](http://sendfile.su/)
+[doodrive](https://doodrive.com/)
+[Archive.org](https://archive.org/create/)
+
+***
+
+**Multi Host Uploaders**
+
+[Z-o-o-m](https://z-o-o-m.eu/)
+[MirrorAce](https://mirrorace.com/)
+[MultiUp](https://multiup.eu/) / [2](https://multiup.org/)
+[Mirrorcreator](https://www.mirrored.to/)
+[PlowShare](https://github.com/mcrapet/plowshare)
+
+***
+
+**Cloud Storage** 
+
+[Cloud Storage Comparisions](https://eylenburg.github.io/cloud_comparison.htm)
+[GDrive](https://drive.google.com/)
+[mega](https://mega.nz/) / [GitHub](https://github.com/meganz)
+[TeledriveApp](https://teledriveapp.com/)
+[disk.yandex](https://disk.yandex.com/)
+
+***
+
+**File Sync / Network Share**
+
+[SyncThing](https://syncthing.net/)
+[Snapdrop](https://snapdrop.net/)
+[ToffeeShare](https://toffeeshare.com/)
+[Blaze](https://blaze.vercel.app/) / [GitHub](https://github.com/blenderskool/blaze)
+[aQRoss](https://aqross.app/) - Share Files via QR Codes
+
+***
+
+**[Video Hosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_hosting_sites)**
+
+***
+
+Source: **[/r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)**

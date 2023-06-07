@@ -1,0 +1,43 @@
+#### What is Divolt? 
+ 
+Divolt is a self-hosted Discord alternative ran by pirates, for pirates. Just like Discord it consists of multiple communities you can be a part of, including FMHY. The chat is also bridged to our private Discord, meaning both communities can communicate with one another easily.
+ 
+***
+ 
+#### How-to Join
+ 
+1. Register an account on Divolt: https://divolt.xyz
+ 
+2. Login, then join the FMHY server: https://fmhy.divolt.xyz
+ 
+***
+ 
+#### Desktop / Mobile Apps
+ 
+**Desktop**: https://github.com/ggtylerr/divolt-desktop
+ 
+**Android**: https://github.com/ggtylerr/divolt-android
+ 
+**iOS / Android**: https://github.com/ggtylerr/dvmob
+ 
+F-**Droid**: `fdroid.ggtyler.dev`
+ 
+Thanks to /u/ggtylerr for making these.
+ 
+***
+ 
+#### Things to Note
+ 
+* Divolt is a self-hosted version of Revolt, meaning you need to make an account on Divolt, even if you already have one on Revolt. 
+ 
+* During signup you can use a fake email, but it will only load with real domains like .gmail.
+ 
+* The emoji picker can be turned on via Settings > Experiments > Custom Emoji.
+ 
+* If you'd like to join Discord you must be active in our community, or a developer / contributor to one of the projects we have posted in the wiki. 
+ 
+* If the page won't load, try clearing your cache, a different browser, disabling ublock or using incognito.
+ 
+***
+ 
+**Resources**: https://github.com/ggtylerr/awesome-divolt

@@ -1,0 +1,13 @@
+#### Onion Directories
+
+[DeepWebLinks](https://deepweblinks.net/directories/)
+[DeepOnionWeb](https://www.deeponionweb.com/)
+[DarkWebWiki](https://darkwebwiki.org/)
+[DarkWebTalk](https://www.darkwebtalk.com/)
+[Tor.Taxi](https://tor.taxi/)
+[dark.fail](https://dark.fail/)
+[dark.breakgo](http://dark.breakgo.cl/)
+[Real World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites)
+
+Official Hidden Wiki: 
+`http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/`
